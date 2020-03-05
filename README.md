@@ -13,5 +13,9 @@ e.g.:
 ``` 
 java -classpath /home/mihir/Desktop/DICOM/target/classes:/home/mihir/Desktop/DICOM/lib/pixelmed.jar org.camicroscope.CodeChallege
 ```
-I have used the PixelMed library: http://www.pixelmed.com/dicomtoolkit.html
-I have commented out the code which stores the data in a local database and instead, printed the metadata to the terminal.
+- I have used the PixelMed library: http://www.pixelmed.com/dicomtoolkit.html
+- I have commented out the code which stores the data in a local database and instead, printed the metadata to the terminal.
+ 
+The source files are:
+- https://github.com/mformihir/DICOM/blob/master/src/main/java/org/camicroscope/CodeChallenge.java
+- https://github.com/mformihir/DICOM/blob/master/src/main/java/org/camicroscope/DICOM.java
