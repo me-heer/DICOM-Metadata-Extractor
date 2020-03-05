@@ -16,6 +16,7 @@ java -classpath /home/mihir/Desktop/DICOM/target/classes:/home/mihir/Desktop/DIC
 - I have used the PixelMed library: http://www.pixelmed.com/dicomtoolkit.html
 - I have commented out the code which stores the data in a local database and instead, printed the metadata to the terminal.
 - The sample file is at the root of the directory: 0002.DCM
+- References for the library usage: https://saravanansubramanian.com/extractdicomimagedata/
  
 The source files are:
 - https://github.com/mformihir/DICOM/blob/master/src/main/java/org/camicroscope/CodeChallenge.java
