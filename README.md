@@ -11,7 +11,7 @@ java -classpath /path/to/project/target/classes:/path/to/project/lib/pixelmed.ja
 ```
 e.g.:
 ``` 
-java -classpath /home/mihir/Desktop/DICOM/target/classes:/home/mihir/Desktop/DICOM/lib/pixelmed.jar org.camicroscope.CodeChallege
+java -classpath /home/mihir/Desktop/DICOM/target/classes:/home/mihir/Desktop/DICOM/lib/pixelmed.jar org.camicroscope.CodeChallenge
 ```
 - I have used the PixelMed library: http://www.pixelmed.com/dicomtoolkit.html
 - I have commented out the code which stores the data in a local database and instead, printed the metadata to the terminal.
